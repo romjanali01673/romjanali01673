@@ -60,6 +60,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/romjanali01673/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail)](mailto:romjanali01673@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp)](https://wa.me/+8801779852361)
 
 ---
 
