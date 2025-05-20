@@ -37,6 +37,15 @@
 
 - 📱 **Flutter + Firebase Demo App**  
   Read/write functionality (both online and offline) using Firestore.
+  
+- 📱 **WebView Application**  
+  all social media in one application.
+  
+- 📱 **Meal Management**  
+  here we can digitally manage our Meal with all mess member on online and offline.
+  
+- 📱 **Chess Game**  
+  online and offline game play, with firends or computer.
 
 - 🧮 **Infix Expression Calculator**  
    GUI calculator using Flutter.
